@@ -22,7 +22,7 @@ on:
           - IPQ807X-WIFI-NO
           - TEST
       SOURCE:
-        default: 'VIKINGYFY/immortalwrt'
+        default: 'VIKINGYFY/lede'
         required: true
         type: choice
         options:
