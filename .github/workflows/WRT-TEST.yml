@@ -26,8 +26,8 @@ on:
         required: true
         type: choice
         options:
-          - VIKINGYFY/immortalwrt
-          - immortalwrt/immortalwrt
+          - VIKINGYFY/lede
+          - coolsnowwolf/lede
           - LiBwrt/openwrt-6.x
           - qosmio/openwrt-ipq
       BRANCH:
